@@ -1,7 +1,7 @@
 ### adb help // List all comands
 > **Clone o Repositório**
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/Mercenario-OFC/adb.git
 ```
 ### Execução
 > **Linha de Comando**
